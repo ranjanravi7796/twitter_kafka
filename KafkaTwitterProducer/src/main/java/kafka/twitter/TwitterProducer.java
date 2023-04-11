@@ -31,7 +31,7 @@ public class TwitterProducer {
     String secret = "<Twitter-Secret-Key>";
 
     // Optional: set up some followings and track terms
-    List<String> terms = Lists.newArrayList("corona","coronavirus","virus");
+    List<String> terms = Lists.newArrayList("corona","coronavirus","virus","covid-19");
 
     public TwitterProducer(){
 
